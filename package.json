@@ -1,0 +1,23 @@
+{
+  "name": "react-express-ts",
+  "version": "1.0.0",
+  "description": "React x Express x TypeScript",
+  "main": "server.js",
+  "scripts": {
+    "start": "tsc server.ts && node ./server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bassaer/react-express-ts.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/bassaer/react-express-ts/issues"
+  },
+  "homepage": "https://github.com/bassaer/react-express-ts#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
